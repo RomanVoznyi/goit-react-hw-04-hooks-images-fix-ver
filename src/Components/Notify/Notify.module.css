@@ -1,0 +1,11 @@
+/*
+ * Стили компонента Notify
+ */
+
+.Notify {
+  padding-left: 20px;
+  font-size: 24px;
+  font-style: italic;
+  font-weight: 500;
+  color: red;
+}
